@@ -1,7 +1,6 @@
 # Deep Neural Network to recognize text from image.
 
-## Dependencies
-1. Scikit-learn
-2. Matplotlib
-3. Numpy
-3. Tensorflow (Parallel and Distributed Computing)
+## Requirements
+* Run `pip install -r requirements.txt` command to install the necessary dependencies to run the program files of this project.
+
+* Install **Tensorflow** from [here](https://www.tensorflow.org/install/).

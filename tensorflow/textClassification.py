@@ -5,7 +5,6 @@ from sklearn.datasets import fetch_20newsgroups
 
 
 # Building neural network
-
 categories = ["comp.graphics","sci.space","rec.sport.baseball"]
 
 newsgroups_train = fetch_20newsgroups(subset = 'train',
